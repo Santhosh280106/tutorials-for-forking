@@ -26,4 +26,4 @@ docker manifest create ${PROVIDER}/${USERNAMR}/${APP_DIR}-${LESSON}:${VER} \
     ${PROVIDER}/${USERNAMR}/${APP_DIR}-${LESSON}-amd64:${VER}
 
 docker manifest push ${PROVIDER}/${USERNAMR}/${APP_DIR}-${LESSON}:${VER}
-thank you
+
